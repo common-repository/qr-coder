@@ -1,0 +1,10 @@
+{
+    "require": {
+        "chillerlan/php-qrcode": "*"
+    },
+	"config": {
+		"platform": {
+			"php": "7.4"
+		}
+	}
+}
